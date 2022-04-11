@@ -1,2 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-04-11T15:28:26.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="8tVkvR4wNboGUVo6Ht-f" version="17.4.1" type="google"><diagram id="tplbc05fTozCESYbVbbv" name="Triplet Loss Architecture - Essay One #1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-11T15:37:06.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="_SE2keeyT2KByOOeakwb" version="17.4.1" type="google">
+  <diagram id="tplbc05fTozCESYbVbbv" name="Triplet Loss Architecture - Essay One #1">
+    <mxGraphModel dx="2036" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lbE9S2-A0tjh6gliOP5e-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-25" value="List of Typed (Positive, Negative, Anchor, other, ..) Tensors with a Fixed Signature (Shape)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="lbE9S2-A0tjh6gliOP5e-2" vertex="1" connectable="0">
+          <mxGeometry x="0.3302" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lbE9S2-A0tjh6gliOP5e-1" target="lbE9S2-A0tjh6gliOP5e-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-1" value="Create Tuples of order N&lt;br&gt;(triplet or higher order)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-3" value="&amp;nbsp;tf.addons.TripletSemiHardlLoss" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="280" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lbE9S2-A0tjh6gliOP5e-6" target="lbE9S2-A0tjh6gliOP5e-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-6" value="Increase batch size in order to reduce probability to have a batch with no positives" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="50" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-8" value="Assumption: &quot;division&quot; by an eventually-zero probability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="710" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-19" value="Loss Function" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="225" y="820" width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-20" value="Siamese (Contrastive)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="255" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-21" value="Triplet Loss (Contrastive)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="395" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-22" value="Variational Autoencoder (Contrastive)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="405" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-24" value="Circle Loss" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="235" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-26" value="..." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="1010" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="595" y="830" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-28" value="Sistem de ecuatii diferentiale nelineare&lt;br&gt;(o &quot;problema de optimzare&quot;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="635" y="895" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="lbE9S2-A0tjh6gliOP5e-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-32" value="Positive&lt;br&gt;(&quot;Apus&quot;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lbE9S2-A0tjh6gliOP5e-31" vertex="1" connectable="0">
+          <mxGeometry x="0.0518" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lbE9S2-A0tjh6gliOP5e-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-34" value="Negative&lt;br&gt;(&quot;rasarit)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lbE9S2-A0tjh6gliOP5e-33" vertex="1" connectable="0">
+          <mxGeometry x="0.4983" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="lbE9S2-A0tjh6gliOP5e-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-36" value="Anchor&lt;br&gt;(&quot;nord&quot;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lbE9S2-A0tjh6gliOP5e-35" vertex="1" connectable="0">
+          <mxGeometry x="0.2695" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-29" value="Triplet Loss" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-37" value="Image&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="1170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-38" value="Image&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="1210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-39" value="Image&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-40" value="DETERMINISTIC COMBINATORICS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="220" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lbE9S2-A0tjh6gliOP5e-41" target="lbE9S2-A0tjh6gliOP5e-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-41" value="Elect elements in batch, with fulfillment per each type" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-42" value="Randomly &lt;b&gt;select&lt;/b&gt;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lbE9S2-A0tjh6gliOP5e-45" target="lbE9S2-A0tjh6gliOP5e-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-45" value="Ordering of Tuples&lt;br&gt;(based on results of evaluation,i.e. distance in latent space)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="310" y="610" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-47" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-200" y="-210" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="lbE9S2-A0tjh6gliOP5e-47" vertex="1">
+          <mxGeometry x="120" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="lbE9S2-A0tjh6gliOP5e-47" vertex="1">
+          <mxGeometry x="130" y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="lbE9S2-A0tjh6gliOP5e-47" vertex="1">
+          <mxGeometry x="130" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="lbE9S2-A0tjh6gliOP5e-47" vertex="1">
+          <mxGeometry x="130" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-13" value="DEAD: Model is an a terminally inconsistent state." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lbE9S2-A0tjh6gliOP5e-47" vertex="1">
+          <mxGeometry x="190" y="20" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-14" value="SICK: Model is a possibly inconsistent state.." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lbE9S2-A0tjh6gliOP5e-47" vertex="1">
+          <mxGeometry x="190" y="75" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-16" value="ALIVE: Model is operating within expected quality and state parameters.." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lbE9S2-A0tjh6gliOP5e-47" vertex="1">
+          <mxGeometry x="190" y="120" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="lbE9S2-A0tjh6gliOP5e-47" vertex="1">
+          <mxGeometry x="80" y="5" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-18" value="Known &lt;br&gt;In-flight Model State&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="lbE9S2-A0tjh6gliOP5e-47" vertex="1">
+          <mxGeometry y="45" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lbE9S2-A0tjh6gliOP5e-48" target="lbE9S2-A0tjh6gliOP5e-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-48" value="Load Several Shards" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-52" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="212.5" y="102.5" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbE9S2-A0tjh6gliOP5e-53" value="Combinatorial Hand-over between High Level and Low Level" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="120" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
